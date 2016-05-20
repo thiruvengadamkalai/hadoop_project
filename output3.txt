@@ -1,0 +1,4 @@
+The average tweet length of prezono: 35578 / 341 = 104.3
+The average tweet length of nonono tweets: 496716166 / 6079961 = 81.6
+Ratio : 1.278 (Comparison).
+
